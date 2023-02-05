@@ -1,7 +1,0 @@
-﻿  main.cpp
-C:\Users\Yonatan\Desktop\c++ projects\BlackJack\BlackJack\CardCounter.h(38,15): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-C:\Users\Yonatan\Desktop\c++ projects\BlackJack\BlackJack\Shoe.h(26,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Yonatan\Desktop\c++ projects\BlackJack\BlackJack\Shoe.h(39,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\Yonatan\Desktop\c++ projects\BlackJack\BlackJack\Shoe.h(70,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Yonatan\Desktop\c++ projects\BlackJack\BlackJack\BlackJack.h(260,35): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-  BlackJack.vcxproj -> C:\Users\Yonatan\Desktop\c++ projects\BlackJack\x64\Debug\BlackJack.exe
